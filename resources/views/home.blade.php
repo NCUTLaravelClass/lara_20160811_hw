@@ -83,6 +83,9 @@
                 </div>
 
                 <div class="links">
+                    <a href="{{route('about.index')}}">aboute</a>
+                    <a href="{{route('news.index')}}">news</a>
+                    <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
